@@ -1,0 +1,11 @@
+body {
+    font-family: "IBM Plex Mono", Courier, monospace;
+    text-rendering: geometricPrecision;
+    padding: 1rem;
+}
+
+h1 {
+    font-family: "Share Tech Mono", Courier, monospace;
+    font-size: 5rem;
+    letter-spacing: -1px;
+}
