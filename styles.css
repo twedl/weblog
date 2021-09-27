@@ -5,7 +5,8 @@ body {
 }
 
 h1 {
-    font-family: "Share Tech Mono", Courier, monospace;
+    font-family: "Space Mono", Courier, monospace;
+    font-weight: 700;
     font-size: 5rem;
     letter-spacing: -1px;
 }
