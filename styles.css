@@ -1,8 +1,20 @@
+:root {
+  --bg: #121212;      /* background */
+  --text: #E0E0E0;    /* text */
+  --accent: #82C7FF;  /* link/accent */
+}
+
+a { 
+    color: var(--accent); 
+}
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Noto Sans", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     text-rendering: geometricPrecision;
     padding: 1rem;
     max-width: 800px;
+    background: var(--bg); 
+    color: var(--text); 
 }
 
 h1 {
